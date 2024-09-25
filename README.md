@@ -1,4 +1,5 @@
 # OrangeHRM Automation
+## Author - VYSHNAV S VARMA
 
 This project automates the login functionality of the OrangeHRM web application. The automation suite is developed using Python, Selenium WebDriver, and pytest with Allure for reporting. It covers both positive and negative test cases for login attempts, ensuring robust validation of the login page.
 
