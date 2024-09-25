@@ -10,7 +10,7 @@ from tests.utils.common_utilities import webdriver_wait_url
 
 @pytest.fixture()
 def setup():
-    driver = webdriver.Edge()
+    driver = webdriver.Chrome()
     driver.maximize_window()
     driver.get(Constants.app_url())
     yield driver
