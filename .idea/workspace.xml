@@ -1,20 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ae2d34-86a0-4abb-8c48-33ef8bcd6538" name="Changes" comment="" />
+    <list default="true" id="f2ae2d34-86a0-4abb-8c48-33ef8bcd6538" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0225c396-c46e-40f5-9569-95fabd7b7bae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05e57a7f-43db-4bd3-b292-c7830a0cd881-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0d1f4b02-10bf-4854-87bd-346d5e84c123-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1565f57f-8180-43f4-91cb-e7cd97d54197-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c440618-7d9d-4702-8dca-132abab0e63e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1cec0cff-eb1d-4836-9e0c-d347e433ab84-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d90df5f-4a1f-474c-82f9-07dc90fd0cb0-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1dc9a4fc-49ef-4023-a1e0-96ec2b2a3484-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/22630811-e4c2-4264-b92d-82d9acf8f51b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/27bf7c1a-956f-4f68-986b-76f6c3f302cf-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/34e753c9-40eb-42b3-bf75-25b955e55b20-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3fb9bd0b-6ccb-4376-8dde-5bf2b81c4ea4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3ff196d5-1dee-492d-ae4b-a8f367a76124-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/404c2f79-0365-4c06-b0ef-28b277189109-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47dd374c-b1ef-4ae1-901d-104933d14c18-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5842ad26-fe14-4653-946a-b6cb4033b8d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58b4d1fe-f4c2-47d6-aab9-31cfa655ee56-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d968c57-591f-499b-bb15-c0d1c9511711-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/60dfca4c-820c-4ea7-af42-f8882d820137-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66793725-4a86-40e6-9888-d9a6a469234e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66d67c0a-1adb-41af-b1d8-eac2f72ceeb8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/67e5a344-4956-4625-8c7d-9465870852e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6ad4c040-e3df-444d-9970-c6588d9c5727-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f6d5554-3323-40f6-8300-01399c34b5da-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72e06f7b-9d0b-4918-9345-0c44e03a5f13-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/747a884f-1c59-4ead-b7a7-5279696461c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/760216f2-0d28-4ed1-9f56-cfa6c7a239b8-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7c58b367-cb96-4ebd-a278-816ceb4e3bb1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7ef45a60-bbc4-4bf4-b108-6ee7663c873b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/800368a2-ff75-49ef-a773-f8e2cc1645ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8250c675-6ad1-4f95-bdc4-3d4a3854f1ac-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84c97516-e0d6-4f76-93b6-06533d088d1b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/85eabf8f-e716-4e8f-8903-3971d13d4c95-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88fffaf7-81b4-449a-badc-7395cd05f9df-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a5d5ca5-8584-4e65-859c-06dd709f618b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92109bf9-94fc-4ad8-8e90-f8d71b38a41c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/984eb782-accb-4775-8e02-c7879c635957-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/99a0221e-9c91-4f76-a8b0-8feac9460403-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ac81ae2-cacb-4f23-b00b-25a02ca558c3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9ec8862f-cfbf-4d1a-97ee-7a09fec8e737-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4e21e40-3004-43d8-9054-acc10bd42c67-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a69b00df-d116-41b5-b0db-1cbb238145d2-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a6c26d4f-489e-4559-a50f-e7d283bf38f6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b66c284d-f584-40c7-8aca-7d9ba20f0a94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b8460dcc-8200-42f4-9f88-1371e5d1822a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1212f7d-016e-4b42-bfbd-ce6a5fb22e1f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb512c6f-c974-484a-aef9-c95387419762-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd947a95-7ee8-4a3c-814c-a4a80370bfd9-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d04534b4-2072-43f7-aa8b-a34285baf57a-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d256ef4b-7008-4a12-b623-33ad24caa7c8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d4e54f38-18e7-43e2-abc0-9b5849767d49-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d9bb8f09-1940-4a35-918d-e1cbfcc2dae8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0028808-5d33-4e86-9e8e-9b68e4c5599d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e1670d8d-9e67-47a9-a5a1-6212a83c9e7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e5c5e8aa-5e24-442b-a628-650d9611b86c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e689b44b-350f-41c2-9f76-c347b1a4fbc5-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e757e7ea-68f7-4165-a3ac-1304b7ce7dfa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e84025aa-c0b6-4986-b55a-769360049bbf-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9301070-5670-4c11-9230-29add4fbd8c0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb72bf6d-595e-4530-a58d-72ca7da89c71-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb9cc9f2-3f11-421c-a897-3783d32dbb87-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f25230b7-a74f-4e89-8b55-848222b8a5ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f811cf22-4552-4e9d-be99-1774a0f7770b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fcbd2344-e3fe-487e-a0d4-f76b29b857dc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff0cfa67-1976-4055-aa07-dfc06c54879d-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/constants/Constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageObjects/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/testcases/test_login_hrm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/common_utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vyshnavsvarma2000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/vyshnavsvarma2000/OrangeHRMProjectSelenium.git",
+    "accountId": "e608cdae-9fd4-4d66-9262-d5e4e790129c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2mYDoGa9vSPHn6N6pTuyUzcGAdp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_login_hrm.test_hrm_login_negative.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_login_hrm.test_hrm_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMProjectSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login_hrm.test_hrm_login_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_login_hrm.test_hrm_login_negative" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -33,5 +170,8 @@
       <updated>1727244789204</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
