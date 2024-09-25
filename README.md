@@ -80,6 +80,11 @@ allure serve allure-results
 
 <img width="1199" alt="Screenshot 2023-08-28 at 5 28 46 PM" src="https://github.com/PramodDutta/PyWebAutomation0x/assets/1409610/b339baf7-ae46-4188-b285-bfb88862f752">
 
+set path="C:\Users\VYSHNAV S VARMA\AppData\Local\Programs\Python\Python312" 
+set path="C:\Users\VYSHNAV S VARMA\AppData\Local\Programs\Python\Python312\Scripts"
+pip install -r requirements.txt
+pytest -n auto tests/testcases/test_login_hrm.py
+
 #### How to run Testcase parallel ?
 
 ``` pytest -n auto tests/testcases/test_login_hrm.py```
