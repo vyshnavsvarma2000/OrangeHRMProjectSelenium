@@ -1,4 +1,5 @@
 # OrangeHRM Automation
+## Author - VYSHNAV S VARMA
 
 This project automates the login functionality of the OrangeHRM web application. The automation suite is developed using Python, Selenium WebDriver, and pytest with Allure for reporting. It covers both positive and negative test cases for login attempts, ensuring robust validation of the login page.
 
@@ -78,6 +79,13 @@ allure serve allure-results
 ### CI/CD Run
 
 <img width="1199" alt="Screenshot 2023-08-28 at 5 28 46 PM" src="https://github.com/PramodDutta/PyWebAutomation0x/assets/1409610/b339baf7-ae46-4188-b285-bfb88862f752">
+
+```bash
+set path="C:\Users\VYSHNAV S VARMA\AppData\Local\Programs\Python\Python312" 
+set path="C:\Users\VYSHNAV S VARMA\AppData\Local\Programs\Python\Python312\Scripts"
+pip install -r requirements.txt
+pytest -n auto tests/testcases/test_login_hrm.py
+```
 
 #### How to run Testcase parallel ?
 
